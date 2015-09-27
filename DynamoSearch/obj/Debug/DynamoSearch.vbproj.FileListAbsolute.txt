@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\obj\Debug\DynamoSearch.vbproj.GenerateResource.Cache
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\bin\Debug\AEC Hackathon.dll
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\bin\Debug\AEC Hackathon.pdb
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\bin\Debug\AEC Hackathon.xml
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\obj\Debug\AECHackathon.Resources.resources
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\obj\Debug\AEC Hackathon.dll
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\obj\Debug\AEC Hackathon.xml
+c:\users\amir\documents\visual studio 2015\Projects\DynamoSearch\DynamoSearch\obj\Debug\AEC Hackathon.pdb
